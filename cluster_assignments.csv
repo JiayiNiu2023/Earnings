@@ -1,0 +1,41 @@
+ticker,sector,industry,hierarchical_cluster,kmeans_cluster
+AAPL,Technology,Hardware,5,0
+ABBV,Healthcare,Biotech,1,3
+ADBE,Technology,Software,3,0
+AMD,Technology,Semiconductors,8,5
+AMZN,Consumer Discretionary,Retail,8,6
+AVGO,Technology,Semiconductors,6,4
+AXP,Financials,Banks,6,7
+BA,Industrials,Aerospace & Defense,8,4
+BLK,Financials,Asset Management,2,6
+C,Financials,Banks,4,4
+CAT,Industrials,Machinery,7,4
+COST,Consumer Discretionary,Retail,2,5
+CRM,Technology,Software,4,6
+DAL,Industrials,Transportation,4,1
+GOOGL,Technology,Software,3,0
+GS,Financials,Banks,5,0
+HD,Consumer Discretionary,Retail,2,4
+INTC,Technology,Semiconductors,4,6
+ISRG,Healthcare,MedTech,1,1
+JNJ,Healthcare,Pharmaceuticals,6,3
+JPM,Financials,Banks,2,5
+LLY,Healthcare,Pharmaceuticals,2,5
+MA,Financials,Asset Management,8,3
+META,Technology,Software,7,6
+MRK,Healthcare,Pharmaceuticals,8,1
+MS,Financials,Banks,2,5
+MSFT,Technology,Software,8,7
+NOW,Technology,Software,2,5
+NVDA,Technology,Semiconductors,3,0
+PANW,Technology,Software,7,6
+PEP,Consumer Discretionary,Retail,1,3
+PG,Consumer Discretionary,Retail,6,2
+RTX,Industrials,Aerospace & Defense,6,3
+TMO,Healthcare,MedTech,8,2
+TSLA,Consumer Discretionary,Autos,8,2
+UAL,Industrials,Transportation,3,1
+UBER,Technology,Software,2,5
+UNH,Healthcare,MedTech,1,7
+V,Financials,Asset Management,5,7
+WFC,Financials,Banks,3,0
